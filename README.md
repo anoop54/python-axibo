@@ -11,6 +11,7 @@
     </p>
     </div>
 
+**original-repo** > https://github.com/axiboai/python-axibo
 
 **python-axibo** is a library used to interface with AXIBO INC hardware
 
